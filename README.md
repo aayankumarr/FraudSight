@@ -1,13 +1,6 @@
 # **Project: Outlier Detection in Financial Data for Fraudulent Activity Identification**
 
-**Team: TEAM-03: THUNDER**
 
-Team Members:
-
-*   Aayan
-*   Mihir Pandya
-*   Manish
-*   Shashwat Sharma (Leader)
 
 Dataset : - https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
 
